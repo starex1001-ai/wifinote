@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "name": "와이파이노트",
+  "brand": "WIFI NOTE",
+  "mark": "WN",
+  "worker": "wifinote",
+  "url": "https://wifinote.webnote-lab.workers.dev",
+  "description": "공유기와 와이파이의 속도, 설정, 보안과 연결 문제를 다룹니다.",
+  "tagline": "집 안의 연결을 살펴보다",
+  "categories": [
+    {
+      "slug": "speed",
+      "name": "와이파이 속도",
+      "description": "와이파이 속도 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "coverage",
+      "name": "음영지역",
+      "description": "음영지역 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "router-buying",
+      "name": "공유기 구매",
+      "description": "공유기 구매 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "frequencies",
+      "name": "주파수",
+      "description": "주파수 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "channels",
+      "name": "채널 설정",
+      "description": "채널 설정 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "security",
+      "name": "공유기 보안",
+      "description": "공유기 보안 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "speed-test",
+      "name": "속도 측정",
+      "description": "속도 측정 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "extenders",
+      "name": "중계기",
+      "description": "중계기 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "router-replacement",
+      "name": "공유기 교체",
+      "description": "공유기 교체 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "guest-network",
+      "name": "게스트 네트워크",
+      "description": "게스트 네트워크 관련 확인 방법과 가이드"
+    }
+  ],
+  "contact_url": "https://github.com/starex1001-ai/wifinote/issues"
+}
